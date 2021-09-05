@@ -22,7 +22,7 @@ params:
   version: 3
 
   favicon: "/images/fav.png"
-  description: "Ali Amiri - Sofware Developer"
+  description: "Ali Amiri - Sofware Developer, Freelancer"
 
   # Navbar Menus
   customMenus:
