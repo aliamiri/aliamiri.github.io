@@ -25,7 +25,7 @@ params:
 
   # home
   disable_home: false
-  profile_image: "/images/profile.png"
+  profile_image: "/images/profile.jpg"
   name: "Ali Amiri"
   profession: "Developer"
   github: "https://github.com/aliamiri"
@@ -48,30 +48,73 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
+    - company: "Tapsell"
       role: "Software developer"
-      startdate: Feb 2021
+      startdate: Apr 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
+        - point:  Tapsell is an ad network based in Iran. I'm a senior developer in Tapsell's brain team. Our primary duty is to develop an effective method for betting on Ads and Ad places to maximize our profit and our client's profit.
+        - point: Technologies that I've worked with here so far includes Kotlin, Spring Framework, Docker, Kubernetes, Kafka, Redis, MongoDB, Prometheus)
+    - company: "Royalty"
       role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      startdate: Sep 2020
+      enddate: Apr 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+        - point: A Java based application for listing properties in Canada.
+        - point: Technology stack includes Java, Spring Framework, Docker, MySQL, React JS
+    - company: "Amoot"
       role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      startdate: Jun 2019
+      enddate: Dec 2019
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: At Amoot, we are maintained and developed new features for National Organization for Civil Registration software like NCR.ir and 3s, a National Card Registration back office.
+    - company: "Freelancer"
+      role: "Fullstack developer"
+      startdate: Apr 2018
+      enddate: Jun 2019
+      featuredpoints:
+        - point: Work on multiple projects like Movic. It was a video streaming service. The best thing about that was I come to work a little with Reactjs, and after several years it was a good experience with UI.
+        - point: Technology stack includes Java, Spring Framework, Python, Docker, React JS, Kafka, Postgres, Bootstrap
+    - company: "Magic-Mirror"
+      role: "Senior Developer"
+      startdate: Nov 2016
+      enddate: Apr 2018
+      featuredpoints:
+        - point: I was in a senior developer position; we mainly developed multimedia solutions.
+        - point: Inet a user-generated content website for videos like YouTube. it's Technology stack includes Java, Spring, Spring-boot,Kafka, Elastic Search, Redis, Mustache, Postgres, Kubernetes, Docker, Python, Javascript, Html, CSS, Cloudfoundry uaa.
+        - point: Filmnet Box an offline video on demand boxes for railways. Technology stack includes PHP, Html, CSS.
+        - point: Maintenance of Filmnet ,Plan, Tvnet and Danapp
+        - point: Backend for mobile games like Hitboy with python.
+    - company: "Homapay"
+      role: "Senior Developer"
+      startdate: Oct 2015
+      enddate: May 2016
+      featuredpoints:
+        - point: Homapay was a fintech company, and I worked mainly on Hampay.ir solution.
+        - point: Technology stack includes Java, MongoDB, mule, RabbitMQ, OpenAM, Nginx, JMeter, Logstash, Docker, Jenkins, Redis, groovy
+    - company: "Asan-Pardakht"
+      role: "Senior Developer"
+      startdate: Mar 2014
+      enddate: Oct 2015
+      featuredpoints:
+        - point: ITIL compliant help desk support system, It was a system that supports LDAP, and has a ticket management system, and works fine in both JBoss and tomcat. Its technology stack includes Java, Grails, AngularJS, Liferay, PostgreSQL, hibernate, spring, angularjs.
+        - point: developed a sms sender’s monitoring system using C#, WPF
+        - point: Core banking simulator to test Asan Pardakht’s various applications using Java
+        - point: Distributor’s Loyalty System using Java and swing
+    - company: "Fanap"
+      role: "Developer"
+      startdate: Sep 2013
+      enddate: Mar 2014
+      featuredpoints:
+        - point: I was responsible for USSD service maintenance and improvement. Technology stack includes Java, web-services, USSD, hibernate
+        - point: Loyalty and XRM. Technology stack includes Java, web-services, hibernate
+    - company: "Naji"
+      role: "Developer"
+      startdate: Jun 2011
+      enddate: Feb 2013
+      featuredpoints:
+        - point: I worked with WebNMS, a framework written in Java, and add extensions to it; the Iranian police department will use the system we developed to manage all the network- related assets used by them. Technology stack includes Java, swing, WebNMS, PostgreSQL
+        - point: I wrote a client and server of the system that used wap for handheld devices. Technology stack includes wap, JBoss, Java
 
   # Education
   disable_education: false
