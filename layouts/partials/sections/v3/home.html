@@ -5,7 +5,7 @@
       <div class="col-md-7 pb-2 name-container">
         <div class="name" data-aos="fade-up" data-aos-offset="200" data-aos-delay="50" data-aos-duration="1000"
           data-aos-once="true">
-          <div class="text-warning hi-text" data-aos="fade-up" data-aos-offset="50" data-aos-delay="50"
+          <div class="text-muted hi-text" data-aos="fade-up" data-aos-offset="50" data-aos-delay="50"
             data-aos-once="true" data-aos-duration="900">
             Hi there, I'm
           </div>
@@ -52,8 +52,16 @@
             data-aos-delay="50" data-aos-duration="900" data-aos-once="true">
             About me
           </a>
+          {{ if .Site.Params.useresume }}
+          <a href={{ .Site.Params.resumelink | default "#" }} class="btn-know btn btn-outline-info" role="button" aria-pressed="true">
+            {{ if .Site.Params.customname }}
+            {{ .Site.Params.customname }}
+            {{ else }}
+            Download Resume
+            {{ end }}
+          </a>
+          {{ end }}
         </div>
-
       </div>
       <div class="col-md-5 text-center pt-2 pt-md-0 position-relative">
         {{ if .Site.Params.profile_image }}

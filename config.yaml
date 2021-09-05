@@ -1,6 +1,6 @@
 baseURL: "https://profile.gurusabarish.tech"
 languageCode: "en-us"
-title: "Ali Amiri portfolio"
+title: "Ali Amiri's Portfolio"
 theme: "./.."
 relativeURLs: true
 
@@ -21,7 +21,7 @@ enableEmoji: true
 params:
   version: 3
 
-  description: "Ali Amiri - Sofware Developer, Freelancer"
+  description: "Ali Amiri - Sofware Developer"
 
   # home
   disable_home: false
@@ -30,6 +30,10 @@ params:
   profession: "Developer"
   github: "https://github.com/aliamiri"
   linkedin: "https://linkedin.com/in/aliamiriakh"
+
+  useresume: true
+  customname: "My Resume"
+  resumelink: "/resume.pdf"
 
   # About
   disable_about: false
