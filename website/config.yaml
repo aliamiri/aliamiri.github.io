@@ -1,4 +1,4 @@
-baseURL: "https://profile.gurusabarish.tech"
+baseURL: "https://github.com/aliamiri"
 languageCode: "en-us"
 title: "Ali Amiri's Portfolio"
 theme: "./.."
@@ -37,8 +37,8 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "I’m a self-motivated, creative programmer with about ten years of programming and management experience, specializing in java with a keen interest in problem-solving. Although I was away from the academic environment, I’ve always kept the fire alive in my heart by solving math-related problems and reading about various subjects, so I decided to continue my education and currently in the last year of my major in AI at the Sharif University of Technology."
-  descripe_l2_person: "I'm always open for new ideas so don't hesitate to contact me"
+  descripe_l1_person: "I’m an enthusiastic, creative programmer with about ten years of programming and management experience, specializing in java with a keen interest in problem-solving. Although I was away from the academic environment, I’ve always kept the fire alive in my heart by solving math-related problems and reading about various subjects, so I decided to continue my education and currently I’m finishing my master majoring in Artificial Intelligence and Data Science at the Sharif University of Technology."
+  descripe_l2_person: "I’m always open for new challenges so don’t hesitate to contact me to share your challenging ideas!"
   skills:
     - name: Back End
       percentage: 90
@@ -156,7 +156,7 @@ params:
   # Contact
   disable_contact: false
   contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!
-  email: "aliamiri68@gmail.com"
+  email: "aliamiri68 [at] gmail.com"
 
   # Footer
   socialiconfooter: true
