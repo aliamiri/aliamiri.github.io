@@ -27,12 +27,12 @@ params:
   disable_home: false
   profile_image: "/images/profile.jpg"
   name: "Ali Amiri"
-  profession: "Developer"
+  profession: "Senior Software Engineer"
   github: "https://github.com/aliamiri"
   linkedin: "https://linkedin.com/in/aliamiriakh"
 
   useresume: true
-  customname: "My Resume"
+  customname: "CV"
   resumelink: "/resume.pdf"
 
   # About
