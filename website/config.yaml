@@ -61,9 +61,7 @@ existing ones in the past several years."
       enddate: present
       featuredpoints:
         - point:  As an ad network, we are developing effective methods for bidding on Ads and Ad places to maximize our profit and our client’s profit. My most significant achievement was handling a stream of billions of records per day using Kafka and Hadoop.
-        - point: Kotlin, Java, Spring Framework, Docker, Kubernetes,
-  Kafka, Redis, MongoDB, Prometheus, Grafana,
-  Hadoop, Hudi.
+        - point: Kotlin, Java, Spring Framework, Docker, Kubernetes, Kafka, Redis, MongoDB, Prometheus, Grafana, Hadoop, Hudi.
     - company: "Royalty"
       role: "Chief Technology Officer"
       startdate: Jun 2020
