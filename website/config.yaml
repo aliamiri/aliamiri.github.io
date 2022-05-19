@@ -95,9 +95,7 @@ existing ones in the past several years."
       enddate: Mar 2016
       featuredpoints:
         - point: In this fintech startup, I worked on micro‑payment architectural design and implementation. The system was an Enterprise Service Bus powered by Mule. I also designed the CI/CD pipelines using Jenkins and wrote the integration tests using Jmeter and groovy.
-        - point: Java, Spring, MongoDB, mule, RabbitMQ, Open AM,
-  Nginx, JMeter, Logstash, Docker, Jenkins, Redis,
-  groovy
+        - point: Java, Spring, MongoDB, mule, RabbitMQ, Open AM, Nginx, JMeter, Logstash, Docker, Jenkins, Redis, groovy
     - company: "Asan-Pardakht"
       role: "Software Engineer"
       startdate: Mar 2014
