@@ -37,8 +37,11 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "I’m an enthusiastic, creative programmer with about ten years of programming and management experience, specializing in java with a keen interest in problem-solving. Although I was away from the academic environment, I’ve always kept the fire alive in my heart by solving math-related problems and reading about various subjects, so I decided to continue my education and currently I’m finishing my master majoring in Artificial Intelligence and Data Science at the Sharif University of Technology."
-  descripe_l2_person: "I’m always open for new challenges so don’t hesitate to contact me to share your challenging ideas!"
+  descripe_l1_person: "I am an enthusiastic, creative programmer with about ten years of programming and management experience, specializing in java with a keen
+interest in problem‑solving. Besides programming, I have an excellent background in Mathematics and Algorithms through my years of studying
+for the Mathematical Olympiad. I have shown a proven record of managing successful software teams in developing new projects and maintaining
+existing ones in the past several years."
+  descripe_l2_person: "I am a self-starter and a team player, and I am always looking for new challenges to tackle!"
   skills:
     - name: Back End
       percentage: 90
@@ -53,72 +56,79 @@ params:
   disable_experience: false
   experience:
     - company: "Tapsell"
-      role: "Software developer"
+      role: "Team Lead"
       startdate: Apr 2021
       enddate: present
       featuredpoints:
-        - point:  Tapsell is an ad network based in Iran. I'm a senior developer in Tapsell's brain team. Our primary duty is to develop an effective method for betting on Ads and Ad places to maximize our profit and our client's profit.
-        - point: Technologies that I've worked with here so far includes Kotlin, Spring Framework, Docker, Kubernetes, Kafka, Redis, MongoDB, Prometheus)
+        - point:  As an ad network, we are developing effective methods for bidding on Ads and Ad places to maximize
+  our profit and our client’s profit. My most significant achievement was handling a stream of billions of
+  records per day using Kafka and Hadoop.
+        - point: Kotlin, Java, Spring Framework, Docker, Kubernetes,
+  Kafka, Redis, MongoDB, Prometheus, Grafana,
+  Hadoop, Hudi.
     - company: "Royalty"
-      role: "Fullstack developer"
-      startdate: Sep 2020
+      role: "Chief Technology Officer"
+      startdate: Jun 2020
       enddate: Apr 2021
       featuredpoints:
-        - point: A Java based application for listing properties in Canada.
-        - point: Technology stack includes Java, Spring Framework, Docker, MySQL, React JS
-    - company: "Amoot"
-      role: "Fullstack developer"
-      startdate: Jun 2019
-      enddate: Dec 2019
-      featuredpoints:
-        - point: At Amoot, we are maintained and developed new features for National Organization for Civil Registration software like NCR.ir and 3s, a National Card Registration back office.
-    - company: "Freelancer"
-      role: "Fullstack developer"
+        - point: I was responsible for the entire software lifecycle, meetings with clients and business analysis, reading
+  through property laws in Canada, refining the business analysis, designing scalable software
+  architecture, and managing a team of five developers to implement it, finally creating a pipeline for tests
+  and deployment.
+        - point: Java, Spring Framework, Docker, MySQL, React JS,Google Cloud Platform, Kafka, Redis.
+#    - company: "Amoot"
+#      role: "Fullstack developer"
+#      startdate: Jun 2019
+#      enddate: Dec 2019
+#      featuredpoints:
+#        - point: At Amoot, we are maintained and developed new features for National Organization for Civil Registration software like NCR.ir and 3s, a National Card Registration back office.
+    - company: "Freelancer - Movic"
+      role: "Team Lead"
       startdate: Apr 2018
       enddate: Jun 2019
       featuredpoints:
-        - point: Work on multiple projects like Movic. It was a video streaming service. The best thing about that was I come to work a little with Reactjs, and after several years it was a good experience with UI.
-        - point: Technology stack includes Java, Spring Framework, Python, Docker, React JS, Kafka, Postgres, Bootstrap
+        - point: I have designed the architecture for a video streaming service and managed a team of six developers to
+  implement the service.
+        - point: Java, Spring Framework, Python, Docker, React JS,Kafka, Postgres, Bootstrap
     - company: "Magic-Mirror"
-      role: "Senior Developer"
+      role: "Senior Software Engineer"
       startdate: Nov 2016
       enddate: Apr 2018
       featuredpoints:
-        - point: I was in a senior developer position; we mainly developed multimedia solutions.
-        - point: Inet a user-generated content website for videos like YouTube. it's Technology stack includes Java, Spring, Spring-boot,Kafka, Elastic Search, Redis, Mustache, Postgres, Kubernetes, Docker, Python, Javascript, Html, CSS, Cloudfoundry uaa.
-        - point: Filmnet Box an offline video on demand boxes for railways. Technology stack includes PHP, Html, CSS.
-        - point: Maintenance of Filmnet ,Plan, Tvnet and Danapp
-        - point: Backend for mobile games like Hitboy with python.
+        - point: We designed and implemented multiple multimedia streaming solutions. We developed the core systems using Kafka, Redis, and the spring framework.
+        - point: Java, Spring, Kafka, Redis, Mustache, Postgres,Docker, Python, JavaScript, Cloud foundry uaa, PHP
     - company: "Homapay"
-      role: "Senior Developer"
+      role: "Senior Software Engineer"
       startdate: Oct 2015
-      enddate: May 2016
+      enddate: Mar 2016
       featuredpoints:
-        - point: Homapay was a fintech company, and I worked mainly on Hampay.ir solution.
-        - point: Technology stack includes Java, MongoDB, mule, RabbitMQ, OpenAM, Nginx, JMeter, Logstash, Docker, Jenkins, Redis, groovy
+        - point: In this fintech startup, I worked on micro‑payment architectural design and implementation. The system
+  was an Enterprise Service Bus powered by Mule. I also designed the CI/CD pipelines using Jenkins and
+  wrote the integration tests using Jmeter and groovy.
+        - point: Java, Spring, MongoDB, mule, RabbitMQ, Open AM,
+  Nginx, JMeter, Logstash, Docker, Jenkins, Redis,
+  groovy
     - company: "Asan-Pardakht"
-      role: "Senior Developer"
+      role: "Software Engineer"
       startdate: Mar 2014
       enddate: Oct 2015
       featuredpoints:
-        - point: ITIL compliant help desk support system, It was a system that supports LDAP, and has a ticket management system, and works fine in both JBoss and tomcat. Its technology stack includes Java, Grails, AngularJS, Liferay, PostgreSQL, hibernate, spring, angularjs.
-        - point: developed a sms sender’s monitoring system using C#, WPF
-        - point: Core banking simulator to test Asan Pardakht’s various applications using Java
-        - point: Distributor’s Loyalty System using Java and swing
+        - point: I worked on ITIL compliant help desk, Core banking simulator, Distributor’s Loyalty System, etc.
+        - point: Java, Grails, AngularJS, PostgreSQL, C#, WPF.
     - company: "Fanap"
       role: "Developer"
       startdate: Sep 2013
       enddate: Mar 2014
       featuredpoints:
-        - point: I was responsible for USSD service maintenance and improvement. Technology stack includes Java, web-services, USSD, hibernate
-        - point: Loyalty and XRM. Technology stack includes Java, web-services, hibernate
+        - point: USSD service maintenance and improvement. developing the XRM system.
+        - point: Java, web‑services, USSD, hibernate
     - company: "Naji"
       role: "Developer"
       startdate: Jun 2011
       enddate: Feb 2013
       featuredpoints:
-        - point: I worked with WebNMS, a framework written in Java, and add extensions to it; the Iranian police department will use the system we developed to manage all the network- related assets used by them. Technology stack includes Java, swing, WebNMS, PostgreSQL
-        - point: I wrote a client and server of the system that used wap for handheld devices. Technology stack includes wap, JBoss, Java
+        - point: I have added several extensions to WebNMS, and I have developed the client and server for a WAP.
+        - point: Java, swing, WebNMS, PostgreSQL, wap, JBoss.
 
   # Education
   disable_education: false
