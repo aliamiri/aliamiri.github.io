@@ -69,12 +69,6 @@ existing ones in the past several years."
       featuredpoints:
         - point: I was responsible for the entire software lifecycle, meetings with clients and business analysis, reading through property laws in Canada, refining the business analysis, designing scalable software architecture, and managing a team of five developers to implement it, finally creating a pipeline for tests and deployment.
         - point: Java, Spring Framework, Docker, MySQL, React JS,Google Cloud Platform, Kafka, Redis.
-#    - company: "Amoot"
-#      role: "Fullstack developer"
-#      startdate: Jun 2019
-#      enddate: Dec 2019
-#      featuredpoints:
-#        - point: At Amoot, we are maintained and developed new features for National Organization for Civil Registration software like NCR.ir and 3s, a National Card Registration back office.
     - company: "Freelancer - Movic"
       role: "Team Lead"
       startdate: Apr 2018
