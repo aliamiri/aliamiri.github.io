@@ -21,7 +21,7 @@ enableEmoji: true
 params:
   version: 3
 
-  description: "Ali Amiri - Sofware Developer"
+  description: "Ali Amiri - Senior Software Engineer"
 
   # home
   disable_home: false
