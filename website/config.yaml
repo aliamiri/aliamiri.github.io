@@ -60,9 +60,7 @@ existing ones in the past several years."
       startdate: Apr 2021
       enddate: present
       featuredpoints:
-        - point:  As an ad network, we are developing effective methods for bidding on Ads and Ad places to maximize
-  our profit and our client’s profit. My most significant achievement was handling a stream of billions of
-  records per day using Kafka and Hadoop.
+        - point:  As an ad network, we are developing effective methods for bidding on Ads and Ad places to maximize our profit and our client’s profit. My most significant achievement was handling a stream of billions of records per day using Kafka and Hadoop.
         - point: Kotlin, Java, Spring Framework, Docker, Kubernetes,
   Kafka, Redis, MongoDB, Prometheus, Grafana,
   Hadoop, Hudi.
@@ -71,10 +69,7 @@ existing ones in the past several years."
       startdate: Jun 2020
       enddate: Apr 2021
       featuredpoints:
-        - point: I was responsible for the entire software lifecycle, meetings with clients and business analysis, reading
-  through property laws in Canada, refining the business analysis, designing scalable software
-  architecture, and managing a team of five developers to implement it, finally creating a pipeline for tests
-  and deployment.
+        - point: I was responsible for the entire software lifecycle, meetings with clients and business analysis, reading through property laws in Canada, refining the business analysis, designing scalable software architecture, and managing a team of five developers to implement it, finally creating a pipeline for tests and deployment.
         - point: Java, Spring Framework, Docker, MySQL, React JS,Google Cloud Platform, Kafka, Redis.
 #    - company: "Amoot"
 #      role: "Fullstack developer"
@@ -87,8 +82,7 @@ existing ones in the past several years."
       startdate: Apr 2018
       enddate: Jun 2019
       featuredpoints:
-        - point: I have designed the architecture for a video streaming service and managed a team of six developers to
-  implement the service.
+        - point: I have designed the architecture for a video streaming service and managed a team of six developers to implement the service.
         - point: Java, Spring Framework, Python, Docker, React JS,Kafka, Postgres, Bootstrap
     - company: "Magic-Mirror"
       role: "Senior Software Engineer"
@@ -102,9 +96,7 @@ existing ones in the past several years."
       startdate: Oct 2015
       enddate: Mar 2016
       featuredpoints:
-        - point: In this fintech startup, I worked on micro‑payment architectural design and implementation. The system
-  was an Enterprise Service Bus powered by Mule. I also designed the CI/CD pipelines using Jenkins and
-  wrote the integration tests using Jmeter and groovy.
+        - point: In this fintech startup, I worked on micro‑payment architectural design and implementation. The system was an Enterprise Service Bus powered by Mule. I also designed the CI/CD pipelines using Jenkins and wrote the integration tests using Jmeter and groovy.
         - point: Java, Spring, MongoDB, mule, RabbitMQ, Open AM,
   Nginx, JMeter, Logstash, Docker, Jenkins, Redis,
   groovy
