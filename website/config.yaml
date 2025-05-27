@@ -21,13 +21,13 @@ enableEmoji: true
 params:
   version: 3
 
-  description: "Ali Amiri - Senior Software Engineer"
+  description: "Ali Amiri - Technology Leader"
 
   # home
   disable_home: false
   profile_image: "/images/profile.jpg"
   name: "Ali Amiri"
-  profession: "Senior Software Engineer"
+  profession: "Technology Leader"
   github: "https://github.com/aliamiri"
   linkedin: "https://linkedin.com/in/aliamiriakh"
 
@@ -37,10 +37,11 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "I am an enthusiastic, creative programmer with about ten years of programming and management experience, specializing in java with a keen
-interest in problem‑solving. Besides programming, I have an excellent background in Mathematics and Algorithms through my years of studying
-for the Mathematical Olympiad. I have shown a proven record of managing successful software teams in developing new projects and maintaining
-existing ones in the past several years."
+  descripe_l1_person: "Dynamic software engineer and team leader with over 10 years of experience in software development and management, specializing in Java.
+Recognized for excellence in team leadership, software architecture, and strategic technical decision‑making. Demonstrated success in delivering
+high‑quality software projects on time and enhancing the performance of existing systems, with a strong emphasis on quality assurance and team
+productivity. Possessing a solid foundation in mathematics, I am a results‑oriented professional dedicated to driving technical innovation and
+achieving exceptional outcomes."
   descripe_l2_person: "I am a self-starter and a team player, and I am always looking for new challenges to tackle!"
   skills:
     - name: Back End
@@ -55,13 +56,27 @@ existing ones in the past several years."
   # Experience
   disable_experience: false
   experience:
+    - company: "Bankino"
+      role: "Technical Team Manager"
+      startdate: Nov 2023
+      enddate: June 2025
+      featuredpoints:
+        - point: Led the development team to overhaul code efficiency and streamline core systems, enabling rapid deployment of innovative features. This technical transformation tripled Bankino’s platform scale and accelerated product adoption within 19 months of my tenure.
+        - point: Team Leadership, Code Optimization, System Design,Feature Development, Java, Kubernetes, Software Architecture
+    - company: "Digikala"
+      role: "Engineering Manager"
+      startdate: Jan 2023
+      enddate: Nov 2023
+      featuredpoints:
+        - point: Managed a diverse team to oversee product development, leading a successful migration to microservices architecture while maintaining productivity and delivery.
+        - point: Team Management, PHP, Docker, Kubernetes, Python, Mysql, Modular mobile development, React Native.
     - company: "Tapsell"
       role: "Team Lead"
       startdate: Apr 2021
-      enddate: present
+      enddate: Jan 2023
       featuredpoints:
-        - point:  As an ad network, we are developing effective methods for bidding on Ads and Ad places to maximize our profit and our client’s profit. My most significant achievement was handling a stream of billions of records per day using Kafka and Hadoop.
-        - point: Kotlin, Java, Spring Framework, Docker, Kubernetes, Kafka, Redis, MongoDB, Prometheus, Grafana, Hadoop, Hudi.
+        - point: Led the development of AI‑powered tools for ad bidding, utilizing state‑of‑the‑art techniques, focused on maximizing profits for our clients. Handling billions of records daily.
+        - point: Team Management, Kotlin, Java, Spring Framework, Docker, Kubernetes, Kafka, Redis, MongoDB, Prometheus, Grafana, Hadoop, Hudi.
     - company: "Royalty"
       role: "Chief Technology Officer"
       startdate: Jun 2020
